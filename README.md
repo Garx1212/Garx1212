@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garx1212&label=Profile%20views&color=0e75b6&style=flat" alt="garx1212" /> </p>
 
+- Ask me about Frontend languages ​​like **React, CSS, Bootstrap**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Garx1212](https://github.com/Garx1212)
+
+- 📫 How to reach me Mgl290304@gmail.com **Mgl290304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
